@@ -1,8 +1,8 @@
 #profile p {
-    color: #ffffff;
+    color: #ffffff !important;
 }
 #profile h5 {
-    color: #ffa500;
+    color: #ffa500 !important;
 }
 nav.navbar{
     background-color: #0a0612;
