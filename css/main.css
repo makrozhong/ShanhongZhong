@@ -33,7 +33,9 @@ h1{
     font-weight: bold;
     color: #ffa500;
 }
-
+#about_me p {
+    color: #ffffff;
+}
 .main-timeline:after{
     content: '';
     display: block;
