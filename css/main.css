@@ -33,12 +33,7 @@ h1{
     font-weight: bold;
     color: #ffa500;
 }
-#profile p {
-    color: #ffffff;
-}
-#profile h5 {
-    color: #ffa500;
-}
+
 .main-timeline:after{
     content: '';
     display: block;
